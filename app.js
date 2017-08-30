@@ -1,6 +1,6 @@
 /*
  * Racing cars in javascript
- * author: Ignacio Cartes Wörner
+ * author: Ignacio Cartes W.
  *
  * Development time: 1h 13min
  */
@@ -9,7 +9,7 @@
 	'use strict';
 	
 	// Constant
-	// There determine how the application will behave
+	// These determine how the application will behave
 	
 	// How many cars will participate
 	const NUMBER_OF_CARS = 3;
